@@ -1,0 +1,9 @@
+.style-app {
+    width: 500;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 15px;
+    padding: 25px;
+}
